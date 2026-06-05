@@ -35,4 +35,4 @@ jobs:
         run: |
           mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
             -Dsonar.organization=research-projects-all \
-            -Dsonar.projectKey=research-projects-all_geekforgeeks-main-tutorial-5
+            -Dsonar.projectKey=research-projects-all_geekforgeeks-main-tutorial-52
